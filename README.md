@@ -1,5 +1,5 @@
 # Lumen
 
-Open the site and play. No install.
+Download this file and open it. If you already play, replace your old Lumen.html so the save stays.
 
-https://staynotnice.github.io/lumen/
+https://github.com/Staynotnice/lumen/raw/main/Lumen.html
